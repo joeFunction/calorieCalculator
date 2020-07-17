@@ -5,7 +5,6 @@ The theme of this application is based on a macronutrient calculator, which allo
    
   ### Table of Contents:
   - [User Story](#user-story-speech_balloon)
-  - [Installation](#installation-floppy_disk)
   - [Usage](#usage)
   - [Functionality](#functionality)
   - [Contribution](#contribution-handshake)
