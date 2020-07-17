@@ -7,6 +7,7 @@ The theme of this application is based on a macronutrient calculator, which allo
   - [User Story](#user-story-speech_balloon)
   - [Usage](#usage)
   - [Functionality](#functionality)
+  - [Site link](#site-link)
   - [Contribution](#contribution-handshake)
   - [Author](#author)
   - [License](#license-trophy)
@@ -31,7 +32,7 @@ The user is able to:
   * Compare meals by using the calculate button.
 
 ### Site Link
-  * [Calorie Calculator](#https://joefunction.github.io/calorieCalculator/)
+  * [Calorie Calculator](https://joefunction.github.io/calorieCalculator/)
 
  ### Contribution
  
