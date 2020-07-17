@@ -1,4 +1,4 @@
-# Cal.culator
+### Cal.culator
 This is a Group project that I worked on during the bootcamp. It is primarily built from the back end, using JQuery and parsed AJAX calls. 
 
 The theme of this application is based on a macronutrient calculator, which allows you to compare meals based on their macronutrients levels. This assignment breaks up the application's UI into columns, rows, and is responsive to user events.
